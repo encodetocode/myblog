@@ -1,5 +1,5 @@
 # myblog
-A WebApp that can upload pictures with text underneath it in a nice layout
+A WebApp that can upload pictures from the django admin-administrator with text underneath it in a nice layout
 
 
 # Deployment
